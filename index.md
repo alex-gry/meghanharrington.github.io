@@ -13,6 +13,11 @@ This has lead to very positive outcome, with a general mind opening on the matte
 
 In our data story, we are going to focus on the evolution of opinions regarding **LGBT community** in each states of the United States, with a special attention to politicians’s statements.   
 
+## Who speaks about gay rights ?
+
+## What feelings does it generate ?
+
+## 
 
 ## Index
 1. Basic explorations
